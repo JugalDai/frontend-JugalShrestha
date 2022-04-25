@@ -1,0 +1,3 @@
+include ':travelnepalwear'
+include ':app'
+rootProject.name = "TravelNepal"

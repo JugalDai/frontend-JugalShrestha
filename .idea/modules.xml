@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TravelNepal.iml" filepath="$PROJECT_DIR$/.idea/modules/TravelNepal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TravelNepal.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TravelNepal.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/travelnepalwear/TravelNepal.travelnepalwear.iml" filepath="$PROJECT_DIR$/.idea/modules/travelnepalwear/TravelNepal.travelnepalwear.iml" />
+    </modules>
+  </component>
+</project>
